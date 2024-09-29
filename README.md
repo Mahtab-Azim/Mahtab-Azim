@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahtab a computer science student passionate about front-end development
+- 👋 Hi, I’m Mahtab a computer science student passionate about front-end development.
 - 👀 I’m interested in front-end technologies like Vue.js, Nuxt.js, and building AI-driven applications.
 - 🌱 I’m currently learning advanced concepts in Vue.js and Nuxt.js.
 - 💞️ I’m looking to collaborate on open-source projects that focus on AI-powered web applications and front-end development challenges.
