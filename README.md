@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  ⚡ Strong in React • Next.js • TypeScript • shadcn/ui<br>
-  ⚡ Experienced with Vue 3 & Nuxt 3 (production projects)<br>
-  ⚡ Currently focused on AI-powered web apps
+   Strong in React • Next.js • TypeScript • shadcn/ui<br>
+   Experienced with Vue 3 & Nuxt 3 (production projects)<br>
+   Currently focused on AI-powered web apps
 </p>
 
 <p align="center">
