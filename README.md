@@ -1,48 +1,33 @@
 # Hi, I'm Mahtab 👋
 
-**Front-End Developer • Specialized in React & Next.js • AI + Modern Web**
-
 <p align="center">
-  Turning complex ideas into fast, beautiful, and intelligent user experiences.
+  <strong>Front-End Developer • React & Next.js Specialist</strong><br>
+  Building fast, beautiful, and smart web experiences
 </p>
 
-### 🛠 Tech & Tools I work with daily
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=vuejs" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=shadcn" title="shadcn/ui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vuejs,nuxtjs,tailwind,shadcn" />
 </p>
 
-### ⚡ What I'm strong in
 <p align="center">
-  • React & Next.js (App Router, Server Components, SSR)<br>
-  • Advanced Vue 3 + Nuxt 3 (experienced, shipped multiple projects)<br>
-  • TypeScript, shadcn/ui, Tailwind, modern UI/UX<br>
-  • Building AI-powered web applications
+  ⚡ Strong in React • Next.js • TypeScript • shadcn/ui<br>
+  ⚡ Experienced with Vue 3 & Nuxt 3 (production projects)<br>
+  ⚡ Currently focused on AI-powered web apps
 </p>
 
-### 🤝 love to collaborate on
 <p align="center">
-  • Production-grade Next.js / React projects<br>
-  • AI-integrated web apps<br>
-  • Beautiful, accessible, component-driven UIs
+  Open to collaborate on Next.js / React open-source projects
 </p>
 
-### 📬 Let's talk
 <p align="center">
   <a href="mailto:mahtabazim784@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/mahtab-abdolazimzadeh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>Open to opportunities • Always shipping • Always learning</i>
+  <i>Always building, always learning.</i>
 </p>
