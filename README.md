@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Mahtab 👋
 
 <p align="center">
@@ -33,4 +32,3 @@
 <p align="center">
   <i>Building consistently. Learning deeply.</i>
 </p>
-```
