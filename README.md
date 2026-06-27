@@ -1,22 +1,24 @@
-  # I'm Mahtab, Front-End Developer 
+```md
+# Hi, I'm Mahtab 👋
 
 <p align="center">
-  <strong>Front-End Developer • React & Next.js Specialist</strong><br>
-  Building fast, beautiful, and smart web experiences
+  <strong>Front-End Developer • React & Next.js</strong><br>
+  Building fast, modern, and user-focused web applications.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vuejs,nuxtjs,tailwind,shadcn" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,vuejs,nuxtjs,tailwind,shadcn" />
 </p>
 
 <p align="center">
-   Strong in React • Next.js • TypeScript • shadcn/ui<br>
-   Experienced with Vue 3 & Nuxt 3 (production projects)<br>
-   Currently focused on AI-powered web apps
+  🚀 Strong in React • Next.js • TypeScript • shadcn/ui<br>
+  💼 Production experience with Vue 3 & Nuxt 3<br>
+  📚 Currently learning Node.js and expanding into Full-Stack Development<br>
+  🤖 Interested in AI-powered products and developer tools
 </p>
 
 <p align="center">
-  Open to collaborate on Next.js / React open-source projects
+  Open to collaborate on React, Next.js and Full-Stack open-source projects.
 </p>
 
 <p align="center">
@@ -29,5 +31,6 @@
 </p>
 
 <p align="center">
-  <i>Always building, always learning.</i>
+  <i>Building consistently. Learning deeply.</i>
 </p>
+```
